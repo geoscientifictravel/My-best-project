@@ -1,4 +1,5 @@
-print ("Hello world!")
+i = ("Hello")
+x = ("World!")
+s = (i + ' ' + x)
+print(s)
 
-for i in range(5):
-	print (i)
